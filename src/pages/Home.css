@@ -1,0 +1,16 @@
+.right-child img{
+    width: 150px;
+    height: 120px;
+}
+.Home-btn{
+    background-color:blue;
+    color: wheat;
+    border-radius: 25px;
+    margin-right: 20px;
+
+}
+.left-child {
+    background: linear-gradient(to right, #160042, #753a88);
+    padding: 40px;
+    border-radius:30px ;
+}
